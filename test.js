@@ -17,7 +17,7 @@ const User = require('./User');
 const tester = new User(testerDef.name, testerDef.email);
 
 
-const testerJSON_mock = {"Name" : testerDef.name, "ssEmail" : testerDef.email};
+const testerJSON_mock = {"Name" : testerDef.name, "Email" : testerDef.email};
 
 try{
 
