@@ -6,6 +6,7 @@ Testing how to publish my own NodeJS package to Node Package registry (NPM) for 
 ### Create simple NodeJS package and publish it on NPM
 - create a simple NodeJS class that renders name and email as string or as JSON string
 - publish it to NPM and reuse it in another local app
+- inject malicious code that posts the parameters to a remote server (.../test-npm-for-fun/logs.txt)
 
 ### Meta
 - package is published under on URL: https://www.npmjs.com/package/testing-npm-for-fun
