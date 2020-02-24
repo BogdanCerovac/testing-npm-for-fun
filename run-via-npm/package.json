@@ -1,0 +1,18 @@
+{
+  "name": "run-via-npm",
+  "version": "1.0.0",
+  "description": "Testing our Test package, by installing it via NPM",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Test a test"
+  ],
+  "author": "BogdanCerovac",
+  "license": "ISC",
+  "dependencies": {
+    "testing-npm-for-fun": "^1.0.2"
+  }
+}
