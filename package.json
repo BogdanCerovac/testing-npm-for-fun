@@ -1,6 +1,6 @@
 {
   "name": "testing-npm-for-fun",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Testing publising to NPM",
   "main": "index.js",
   "scripts": {
