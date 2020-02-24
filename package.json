@@ -1,11 +1,12 @@
 {
   "name": "testing-npm-for-fun",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Testing publising to NPM",
   "main": "index.js",
   "scripts": {
     "run" : "node run.js", 
-    "test"  : "node test.js"
+    "test"  : "node test.js",
+    "publish-to-npm" : "npm publish"
   },
   "repository": {
     "type": "git",
