@@ -1,0 +1,22 @@
+{
+  "name": "testing-npm-for-fun",
+  "version": "1.0.0",
+  "description": "Testing publising to NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BogdanCerovac/testing-npm-for-fun.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "BogdanCerovac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BogdanCerovac/testing-npm-for-fun/issues"
+  },
+  "homepage": "https://github.com/BogdanCerovac/testing-npm-for-fun#readme"
+}
