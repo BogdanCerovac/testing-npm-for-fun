@@ -12,3 +12,11 @@ Testing how to publish my own NodeJS package to Node Package registry (NPM) for 
 - package is published under on URL: https://www.npmjs.com/package/testing-npm-for-fun
 - it can be tested via RunKit on URL: https://runkit.com/npm/testing-npm-for-fun
 - you can use it in your project running: `npm install testing-npm-for-fun`
+
+### Runtime
+
+```
+var testingNpmForFun = require("testing-npm-for-fun")
+var user = new testingNpmForFun("UserFrom105", "UserFrom105@test.no")
+console.log(user.renderData());
+```
